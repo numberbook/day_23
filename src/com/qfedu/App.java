@@ -6,6 +6,6 @@ public class App {
 
        // System.out.println("sdfghj");
         System.out.println("s");
-        int d=2;
+//       int d=2;
     }
 }
